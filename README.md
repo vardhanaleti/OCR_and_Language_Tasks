@@ -1,2 +1,2 @@
-# Video_to_Text-
+# Video_to_Text
 OCR_Pytesseract
